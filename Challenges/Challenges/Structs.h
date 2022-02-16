@@ -1,6 +1,7 @@
 #pragma once
 class Structs
 {
+public:
 	struct House
 	{
 		bool hasPool;
@@ -8,5 +9,8 @@ class Structs
 		short totalPeople;
 	};
 
+private:
+
+	int* housePointer;
 
 };
