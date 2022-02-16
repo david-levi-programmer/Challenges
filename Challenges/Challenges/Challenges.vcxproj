@@ -139,10 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Challenges.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Loops.h" />
+    <ClCompile Include="Loops.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
