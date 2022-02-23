@@ -1,3 +1,5 @@
+#include "Structs.h"
+
 struct House
 {
 	bool hasPool;
@@ -5,4 +7,12 @@ struct House
 	short totalPeople;
 };
 
-House* housePointer = new House();
+
+House* housePointer = nullptr;
+House* housePointer = new House;
+
+House houses[5];
+
+/*delete housePointer;
+housePointer = nullptr;
+delete housePointer;*/

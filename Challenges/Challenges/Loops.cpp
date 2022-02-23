@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Structs.h"
 
 int main()
 {
@@ -44,4 +45,6 @@ int main()
 	{
 		std::cout << "Hi" << std::endl;
 	}
+
+	system("PAUSE");
 }
