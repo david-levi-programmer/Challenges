@@ -142,9 +142,6 @@
     <ClCompile Include="Structs.cpp" />
     <ClCompile Include="Loops.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Structs.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
