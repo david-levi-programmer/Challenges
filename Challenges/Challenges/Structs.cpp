@@ -8,7 +8,7 @@ struct House
 };
 
 
-House* housePointer = nullptr;
+//House* housePointer = nullptr;
 House* housePointer = new House;
 
 House houses[5];
