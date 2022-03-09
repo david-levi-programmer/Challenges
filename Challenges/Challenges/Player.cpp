@@ -2,4 +2,5 @@
 
 void Player::Attack(const Player& otherPlayer)
 {
+
 }

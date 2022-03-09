@@ -2,4 +2,5 @@
 
 void Orc::Attack(const Player& otherPlayer)
 {
+
 }

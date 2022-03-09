@@ -2,4 +2,5 @@
 
 void Human::Attack(const Player& otherPlayer)
 {
+
 }

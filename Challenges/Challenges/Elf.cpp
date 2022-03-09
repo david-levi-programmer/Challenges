@@ -2,4 +2,5 @@
 
 void Elf::Attack(const Player& otherPlayer)
 {
+
 }
