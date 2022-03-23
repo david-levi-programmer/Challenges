@@ -21,9 +21,42 @@
     <ClCompile Include="Structs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Elf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Human.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Orc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Polymorphism.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Elf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Human.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Loops.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Orc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Polymorphism.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

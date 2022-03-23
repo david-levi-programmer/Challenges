@@ -7,8 +7,8 @@ class Human : public Player
 
 public:
 
-	virtual void Attack(const Player& otherPlayer);
+	int Stats();
 
-private:
+	virtual void Attack(const Player& otherPlayer);
 
 };
